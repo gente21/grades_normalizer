@@ -1,5 +1,6 @@
 # grades_normalizer
 npm install pdfreader
+
 npm i --save csvtojson
 
 Como primer parámetro pasar el nombre del grupo, que debe ser el mismo en el CSV
